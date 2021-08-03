@@ -14,8 +14,11 @@ To customize the minigames go to minigames.txt and change the 3 minigames, just 
 
 All commands:
 /minigames for temporary status which minigames you will play on which day.
+
 /minigames4 to let you know which minigames you are going to play on which day.
+
 /day485 sets the day
+
 Type ip to get the ip!
 
 Translated with www.DeepL.com/Translator (free version)
