@@ -12,7 +12,7 @@ To customize the minigames go to minigames.txt and change the 3 minigames, just 
 2. Minigame2
 3. Minigame3
 
-###All commands:
+### All commands:
 
 /minigames for temporary status which minigames you will play on which day.
 
